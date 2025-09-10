@@ -4,7 +4,7 @@ public class Lab001_Helloworld {
 
     public static void main(String[] args) {
 
-        System.out.println("Hello World Vasu");
+        System.out.println("Hello World VasuA");
     }
 
 }
